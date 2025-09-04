@@ -11,7 +11,6 @@ My mircocontroller experience is with the STM 32 L476RG and the arduino.
 --------------------------------------------------------------------------------------------------------------
 
 My projects include: 
-- A character sheet creator for DND using C# class design.
 - A camera that you can point at a sheet of music and have it read that music.
 - Some robot behavior simulation projects.
 - Some physics simulation environments from my past as a physics major.
