@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Caeson Reckling. I am a student at BYUI studying Computer Science. I am looking to build 
+My name is Caeson Reckling. I am a student at BYUI studying Computer Engineering. I am looking to build 
 my technical skills in gernal programming, embedded systems, machine learning, and computer architecture. 
 
 --------------------------------------------------------------------------------------------------------------
@@ -12,6 +12,7 @@ My mircocontroller experience is with the STM 32 L476RG and the arduino.
 
 My projects include: 
 - A camera that you can point at a sheet of music and have it read that music.
+- A robotic arm controller.
 - Some robot behavior simulation projects.
 - Some physics simulation environments from my past as a physics major.
 
